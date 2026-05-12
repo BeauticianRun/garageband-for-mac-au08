@@ -1,4 +1,4 @@
-# 
+# smart GarageBand for macOS Preset | chromatic-aberration-fix + audio-cleanup offers the most advanced GarageBand for macOS preset, with chromatic-aberration-fix and audio-cleanup.
 
 
 
